@@ -1,0 +1,22 @@
+# Node.js
+node_modules/
+
+# IDE Files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+.vscode/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Build Files
+/dist/
+/build/
+
+# Environment Variables
+.env
+
+# Cache Directories
+.cache/
